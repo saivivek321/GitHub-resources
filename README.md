@@ -44,5 +44,6 @@ git init  <br>
 git remote add origin git_https <br>
 git add . <br>
 git commit -m "Initial Commit" <br>
-
+npm run deploy <br>
+git push -u origin master <br>
 
